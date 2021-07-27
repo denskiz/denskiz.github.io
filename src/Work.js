@@ -51,11 +51,11 @@ const Work = () => {
             image="https://i.imgur.com/Fsxnijn.png"
           />
           <Project
-            title="Pics"
-            description="App which lets you search for photos"
+            title="Image"
+            description="App which lets you search for images"
             built="Built with React &amp; Unsplash API"
-            link="https://denskiz.github.io/pics"
-            github="https://github.com/denskiz/pics"
+            link="https://denskiz.github.io/image-search"
+            github="https://github.com/denskiz/image-search"
             image="https://i.imgur.com/1QUeVNC.png"
           />
           <Project
