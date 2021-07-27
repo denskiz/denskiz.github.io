@@ -51,7 +51,7 @@ const Work = () => {
             image="https://i.imgur.com/Fsxnijn.png"
           />
           <Project
-            title="Image"
+            title="Image Search"
             description="App which lets you search for images"
             built="Built with React &amp; Unsplash API"
             link="https://denskiz.github.io/image-search"
