@@ -7,14 +7,6 @@ import Work from "./Work";
 
 const projects = [
   {
-    title: "Book Explorer",
-    description: "Search for books using the Google Books API",
-    built: "Built with React, Bootstrap &amp; Google Books API",
-    link: "https://denskiz.github.io/book-explorer/",
-    github: "https://github.com/denskiz/book-explorer",
-    image: "https://i.imgur.com/WEJD4Ql.png",
-  },
-  {
     title: "Emaily",
     description: "A Full Stack Web App which sends email blasts",
     built: "Built with NodeJS, React, Redux, Express, and MongoDB",
