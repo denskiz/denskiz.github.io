@@ -18,7 +18,7 @@ const projects = [
     title: "Seasons",
     description:
       "A simple React app with conditional rendering depending on the season",
-    built: "Built with React &amp; and Geolocation API",
+    built: "Built with React and Geolocation API",
     link: "https://denskiz.github.io/seasons",
     github: "https://github.com/denskiz/seasons",
     image: "https://i.imgur.com/Z4w16Fb.png",
@@ -26,7 +26,7 @@ const projects = [
   {
     title: "Countdown Timer",
     description: "Counts down the remaining time from a given date.",
-    built: "Built with React, TypeScript &amp; Bootstrap",
+    built: "Built with React, TypeScript & Bootstrap",
     link: "https://denskiz.github.io/countdown-timer",
     github: "https://github.com/denskiz/countdown-timer",
     image: "https://i.imgur.com/Fdhp5yv.png",
@@ -34,7 +34,7 @@ const projects = [
   {
     title: "YouTube Search",
     description: "App which lets you search for YouTube Videos",
-    built: "Built with React &amp; YouTube API",
+    built: "Built with React & YouTube API",
     link: "https://denskiz.github.io/youtube-search",
     github: "https://github.com/denskiz/youtube-search",
     image: "https://i.imgur.com/Fsxnijn.png",
@@ -42,7 +42,7 @@ const projects = [
   {
     title: "Image Search",
     description: "App which lets you search for images",
-    built: "Built with React &amp; Unsplash API",
+    built: "Built with React and Unsplash API",
     link: "https://denskiz.github.io/image-search",
     github: "https://github.com/denskiz/image-search",
     image: "https://i.imgur.com/1QUeVNC.png",
