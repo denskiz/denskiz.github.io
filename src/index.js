@@ -61,7 +61,7 @@ const projects = [
     built: 'Built with React & Open Weather Map API',
     link: 'https://denskiz.github.io/react-weather-app',
     github: 'https://github.com/denskiz/react-weather-app',
-    image: 'https://i.imgur.com/CeCmXm2.png',
+    image: 'https://i.imgur.com/QR7zpY8.png',
   },
 ];
 
