@@ -63,6 +63,14 @@ const projects = [
     github: 'https://github.com/denskiz/react-weather-app',
     image: 'https://i.imgur.com/QR7zpY8.png',
   },
+  {
+    title: 'Ethereum App',
+    description: 'App built to interact with the ethereum blockchain',
+    built: 'Built with React, Next.js, and Solidity',
+    link: 'https://ethereum-nextjs.vercel.app/',
+    github: 'https://github.com/denskiz/ethereum-nextjs',
+    image: 'https://i.imgur.com/ZKQpce3.png',
+  },
 ];
 
 const App = () => {
