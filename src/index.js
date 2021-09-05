@@ -29,7 +29,7 @@ const projects = [
     built: 'Built with React, TypeScript & Bootstrap',
     link: 'https://denskiz.github.io/countdown-timer',
     github: 'https://github.com/denskiz/countdown-timer',
-    image: 'https://i.imgur.com/Fdhp5yv.png',
+    image: 'https://i.ibb.co/89RbtDY/d.webp',
   },
   {
     title: 'YouTube Search',
