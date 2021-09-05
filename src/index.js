@@ -37,7 +37,7 @@ const projects = [
     built: 'Built with React & YouTube API',
     link: 'https://denskiz.github.io/youtube-search',
     github: 'https://github.com/denskiz/youtube-search',
-    image: 'https://i.imgur.com/Fsxnijn.png',
+    image: 'https://i.ibb.co/rbp7s71/d.webp',
   },
   {
     title: 'Image Search',
