@@ -1,4 +1,4 @@
-import Project from "./Project";
+import Project from './Project';
 
 const Work = ({ projects }) => {
   const currentYear = new Date().getFullYear();
@@ -17,7 +17,7 @@ const Work = ({ projects }) => {
   });
 
   return (
-    <div>
+    <>
       <main id="work">
         <h1 className="lg-heading">
           My <span className="text-secondary">Work</span>
@@ -26,7 +26,7 @@ const Work = ({ projects }) => {
         <div className="projects">{renderItems}</div>
       </main>
       <footer id="main-footer">Copyright © {currentYear}</footer>
-    </div>
+    </>
   );
 };
 

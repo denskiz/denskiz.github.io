@@ -5,10 +5,7 @@ const HomePage = () => {
     <div>
       <body id="bg-img">
         <main id="home">
-          <h1 className="lg-heading">
-            Dennis {'   '}
-            <span className="text-secondary">Ent</span>
-          </h1>
+          <h1 className="lg-heading">Dennis Ent</h1>
           <h2 className="sm-heading">Full Stack Web Developer</h2>
         </main>
       </body>

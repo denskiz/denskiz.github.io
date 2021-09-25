@@ -2,14 +2,14 @@ const Project = (props) => {
   return (
     <div>
       <div className="item">
-        <a href={props.link} target="_blank" rel="noopener">
+        <a href={props.link} target="_blank" rel="noreferrer">
           <img src={props.image} alt="Project" />
         </a>
         <a
           href={props.link}
           target="_blank"
           className="btn-light"
-          rel="noopener"
+          rel="noreferrer"
         >
           <i className="fas fa-eye"></i>
           {props.title} <br />
@@ -20,7 +20,7 @@ const Project = (props) => {
           href={props.github}
           target="_blank"
           className="btn-dark"
-          rel="noopener"
+          rel="noreferrer"
         >
           <i className="fab fa-github"></i> Github
         </a>
