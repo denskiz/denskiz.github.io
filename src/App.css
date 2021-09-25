@@ -55,10 +55,6 @@ main#home h1 {
   margin-top: 20vh;
 }
 
-.about-info {
-  display: flex;
-}
-
 .about-info .bio {
   font-size: 1.5rem;
   padding: 0px 100px;

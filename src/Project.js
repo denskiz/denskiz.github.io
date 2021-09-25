@@ -22,7 +22,7 @@ const Project = (props) => {
           className="btn-dark"
           rel="noreferrer"
         >
-          <i className="fab fa-github"></i> Github
+          Github
         </a>
       </div>
     </div>
