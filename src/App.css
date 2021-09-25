@@ -65,7 +65,8 @@ main#home h1 {
   grid-template-columns: repeat(3, 1fr);
 }
 .projects img {
-  width: 100%;
+  width: 280px;
+  height: 200px;
   border: 3px #fff solid;
 }
 .projects img:hover {
