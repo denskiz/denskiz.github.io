@@ -1,11 +1,11 @@
 const projects = [
   {
-    title: 'Emaily',
-    description: 'A Full Stack Web App which sends email blasts',
-    built: 'Built with NodeJS, React, Redux, Express, and MongoDB',
-    link: 'https://emaily-de.herokuapp.com',
-    github: 'https://github.com/denskiz/emaily',
-    image: 'https://i.imgur.com/qGZWPke.png',
+    title: 'DJ Events',
+    description: 'A Full Stack CRUD app showing upcoming music events',
+    built: 'Built with Nextjs, React, Strapi, Cookie Authentication',
+    link: 'https://dennisdjevents.vercel.app',
+    github: 'https://github.com/denskiz/dj-events',
+    image: 'https://i.ibb.co/QdGzXZ6/dj.webp',
   },
   {
     title: 'Seasons',
