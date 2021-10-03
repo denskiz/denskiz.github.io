@@ -25,12 +25,12 @@ const projects = [
     image: 'https://i.ibb.co/89RbtDY/d.webp',
   },
   {
-    title: 'YouTube Search',
+    title: 'Video Search',
     description: 'App which lets you search for YouTube Videos',
-    built: 'Built with React & YouTube API',
-    link: 'https://denskiz.github.io/youtube-search',
-    github: 'https://github.com/denskiz/youtube-search',
-    image: 'https://i.ibb.co/rbp7s71/d.webp',
+    built: 'Built with VueJS & YouTube API',
+    link: 'https://denskiz.github.io/video-browser/',
+    github: 'https://github.com/denskiz/video-browser',
+    image: 'https://i.ibb.co/cDbSKnq/dennis.webp',
   },
   {
     title: 'Image Search',
