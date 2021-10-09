@@ -51,10 +51,10 @@ const projects = [
   {
     title: 'Weather App',
     description: 'App which shows current weather information',
-    built: 'Built with React & Open Weather Map API',
-    link: 'https://denskiz.github.io/react-weather-app',
-    github: 'https://github.com/denskiz/react-weather-app',
-    image: 'https://i.imgur.com/QR7zpY8.png',
+    built: 'Built with Vue & Open Weather Map API',
+    link: 'https://denskiz.github.io/vue-weather-app',
+    github: 'https://github.com/denskiz/vue-weather-app',
+    image: 'https://i.ibb.co/k4GyLsv/Screenshot-from-2021-10-10-09-02-26.png',
   },
   {
     title: 'Ethereum App',
