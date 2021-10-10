@@ -52,7 +52,7 @@ const projects = [
     title: 'Weather App',
     description: 'App which shows current weather information',
     built: 'Built with Vue & Open Weather Map API',
-    link: 'https://denskiz.github.io/vue-weather-app',
+    link: 'https://vue-weather-app-ochre.vercel.app',
     github: 'https://github.com/denskiz/vue-weather-app',
     image: 'https://i.ibb.co/k4GyLsv/Screenshot-from-2021-10-10-09-02-26.png',
   },
