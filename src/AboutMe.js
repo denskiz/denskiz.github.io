@@ -7,10 +7,9 @@ const AboutMe = () => {
           <div className="bio">
             <p>
               I am an aspiring Web Developer looking for an amazing team to be a
-              part of. Currently working through the Free Code Camp curriculum
-              and learning the latest frameworks. Focusing on the MERN Stack. I
-              am currently building projects in React, Redux, Node, Express,
-              MongoDB and Mongoose.
+              part of. Currently building projects in my free time and learning
+              the latest frameworks. I am currently building projects in React,
+              Redux, Vue, Node, Express, and Next Js
             </p>
           </div>
         </div>
